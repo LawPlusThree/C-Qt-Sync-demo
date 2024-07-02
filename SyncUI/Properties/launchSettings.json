@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SyncUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SyncUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
